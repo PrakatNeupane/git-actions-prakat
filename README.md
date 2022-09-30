@@ -12,3 +12,4 @@ you will see some errors\
 Create repo with Github cli\
 you may need to first download the github cli and authorize\
 first github action - create .github folder / workflows/ ci.yaml\
+npm run lint -- --fix
